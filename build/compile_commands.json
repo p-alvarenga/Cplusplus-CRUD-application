@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/main.cpp.o -c /home/pdr0alva/projs/gui_db/main.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/main.cpp",
+  "output": "CMakeFiles/gui_db.dir/main.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/data/source/Person.cpp.o -c /home/pdr0alva/projs/gui_db/data/source/Person.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/data/source/Person.cpp",
+  "output": "CMakeFiles/gui_db.dir/data/source/Person.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/data/source/DAO.cpp.o -c /home/pdr0alva/projs/gui_db/data/source/DAO.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/data/source/DAO.cpp",
+  "output": "CMakeFiles/gui_db.dir/data/source/DAO.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/data/source/DAL.cpp.o -c /home/pdr0alva/projs/gui_db/data/source/DAL.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/data/source/DAL.cpp",
+  "output": "CMakeFiles/gui_db.dir/data/source/DAL.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/gui/source/data-view.cpp.o -c /home/pdr0alva/projs/gui_db/gui/source/data-view.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/gui/source/data-view.cpp",
+  "output": "CMakeFiles/gui_db.dir/gui/source/data-view.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/gui/source/menubar.cpp.o -c /home/pdr0alva/projs/gui_db/gui/source/menubar.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/gui/source/menubar.cpp",
+  "output": "CMakeFiles/gui_db.dir/gui/source/menubar.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/gui/source/main-frame.cpp.o -c /home/pdr0alva/projs/gui_db/gui/source/main-frame.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/gui/source/main-frame.cpp",
+  "output": "CMakeFiles/gui_db.dir/gui/source/main-frame.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/gui/source/user-dialog.cpp.o -c /home/pdr0alva/projs/gui_db/gui/source/user-dialog.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/gui/source/user-dialog.cpp",
+  "output": "CMakeFiles/gui_db.dir/gui/source/user-dialog.cpp.o"
+},
+{
+  "directory": "/home/pdr0alva/projs/gui_db/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/pdr0alva/projs/gui_db/gui/include -I/home/pdr0alva/projs/gui_db/data/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/gui_db.dir/gui/source/unique-dialog.cpp.o -c /home/pdr0alva/projs/gui_db/gui/source/unique-dialog.cpp",
+  "file": "/home/pdr0alva/projs/gui_db/gui/source/unique-dialog.cpp",
+  "output": "CMakeFiles/gui_db.dir/gui/source/unique-dialog.cpp.o"
+}
+]

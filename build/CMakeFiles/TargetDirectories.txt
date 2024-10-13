@@ -1,0 +1,3 @@
+/home/pdr0alva/projs/gui_db/build/CMakeFiles/gui_db.dir
+/home/pdr0alva/projs/gui_db/build/CMakeFiles/edit_cache.dir
+/home/pdr0alva/projs/gui_db/build/CMakeFiles/rebuild_cache.dir
