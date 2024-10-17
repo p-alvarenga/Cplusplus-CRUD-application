@@ -23,7 +23,7 @@ After all that installed, just run CMAKE and build the application.
 The CRUD operations occur in a table, DESCRIBED: 
 
 | Field | Type         | Null | Key | Default | Extra          |
-|-------|--------------|------|-----|---------|----------------|
+|:---:|:----------:|------|-----|---------|----------------|
 | id    | int          | NO   | PRI | NULL    | auto_increment |
 | name  | varchar(255) | NO   |     | NULL    |                |
 | cpf   | varchar(255) | YES  |     | NULL    |                |
