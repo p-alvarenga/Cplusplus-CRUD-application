@@ -16,7 +16,7 @@
 
 After all that installed, just run CMAKE and build the application.
 
-<br>
+<hr>
 
 ##  MySQL Database Details
 
@@ -26,16 +26,18 @@ The CRUD operations occur in a table, DESCRIBED:
 |:---:|:----------:|------|-----|---------|----------------|
 | id    | int          | NO   | PRI | NULL    | auto_increment |
 | name  | varchar(255) | NO   |     | NULL    |                |
-| cpf   | varchar(255) | YES  |     | NULL    |                |
+| cpf   | varchar(11) | YES  |     | NULL    |                |
 | age   | int          | NO   |     | NULL    |                |
+
+<br>
 
 > [!TIP]
 > MySQL Query to create that table:
-> ```
+> ```mysql
 > CREATE TABLE People(
 >     id INT NOT NULL AUTO_INCREMENT,
 >     name varchar(255) NOT NULL,
->     cpf varchar(255), age INT NOT NULL,
+>     cpf varchar(11), age INT NOT NULL,
 >     PRIMARY KEY (id)
 > );
 > ```
