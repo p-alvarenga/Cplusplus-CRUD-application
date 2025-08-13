@@ -2,7 +2,7 @@
 <br/>
 <h3 align="center">A C++ CRUD Application with <code>WxWidgets</code> for GUI and <code>SOCI</code> for MySQL Queries</h3>
 
-<br/><br/>
+<br/>
 
 ## Application Dependences 
 
